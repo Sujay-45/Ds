@@ -1,7 +1,9 @@
+Data Visualization II 
+
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-# Load dataset
+#Load dataset
 titanic = sns.load_dataset('titanic')
 
 # Box plot
