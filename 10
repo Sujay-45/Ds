@@ -43,3 +43,18 @@ for col in iris.columns[:-1]:
     plt.title(f"{col} by Species")
 
     plt.show()
+
+==========================================
+
+Data Visualization III
+Import required libraries.
+Load Iris dataset using Seaborn.
+Display first 5 rows.
+Display data types.
+Create histograms for all numeric features.
+Add histogram title.
+Display histograms.
+Create individual boxplots for each feature.
+Display each boxplot.
+Create boxplots grouped by species.
+Display species-wise boxplots.
